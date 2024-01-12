@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "smartsheet": "^4.0.2"
+  }
+}
